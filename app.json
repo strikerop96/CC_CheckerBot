@@ -47,7 +47,7 @@
         },
         "ANTISPAM_TIMER": {
             "description": "AntiSpam Timer Value in seconds",
-            "value":"20",
+            "value":"5",
             "required": true
         },
         "SK_KEYS": {
